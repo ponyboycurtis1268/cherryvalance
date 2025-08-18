@@ -15,7 +15,54 @@
 </header>
 <main>
     <h2>Home Content</h2>
-    <p>This page contains information on QA tools and techniques.</p>
+    <p>This page contains information on QA tools and techniques.
+
+        Kotlin Web Application with MySQL Database and Selenium Testing Framework
+
+        ## Project Structure
+        ```
+        kotlin-web-app/
+        ├── build.gradle.kts
+        ├── src/
+        │   ├── main/
+        │   │   ├── kotlin/
+        │   │   │   └── com/
+        │   │   │       └── example/
+        │   │   │           ├── Application.kt
+        │   │   │           ├── config/
+        │   │   │           │   └── DatabaseConfig.kt
+        │   │   │           ├── controller/
+        │   │   │           │   └── UserController.kt
+        │   │   │           ├── model/
+        │   │   │           │   └── User.kt
+        │   │   │           ├── repository/
+        │   │   │           │   └── UserRepository.kt
+        │   │   │           └── service/
+        │   │   │               └── UserService.kt
+        │   │   └── resources/
+        │   │       ├── application.yml
+        │   │       └── templates/
+        │   │           ├── index.html
+        │   │           ├── users.html
+        │   │           └── user-form.html
+        │   └── test/
+        │       └── kotlin/
+        │           └── com/
+        │               └── example/
+        │                   ├── selenium/
+        │                   │   ├── BaseSeleniumTest.kt
+        │                   │   ├── pages/
+        │                   │   │   ├── HomePage.kt
+        │                   │   │   ├── UsersPage.kt
+        │                   │   │   └── UserFormPage.kt
+        │                   │   └── tests/
+        │                   │       └── UserManagementTest.kt
+        │                   └── unit/
+        │                       └── UserServiceTest.kt
+        └── docker-compose.yml
+        ``
+    </p>
+
 </main>
 <footer><p>&copy; 2025 FrndlyTV</p>
 </footer>
