@@ -2,8 +2,8 @@ name: Deploy to Github Pages
 
 on:
   push:
-      branches:
-       - publish-site
+    branches:
+      - publish-site
 
 jobs:
   build-and-deploy:
@@ -13,8 +13,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Deploy to Github Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
-          publish_branch: main
+          publish_branch: publish-site
