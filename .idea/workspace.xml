@@ -4,182 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c226c0a3-18e2-4a36-a2d2-f36d20e92b09" name="Changes" comment="&quot;page publish test&quot;" />
+    <list default="true" id="d6a47323-f51e-49f9-b237-d8f5e0732490" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_19_2025_10_11_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_8_19_2025_10_11_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nojekyll" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="CSS-styling" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;AlexanderFrndlyTV&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AlexanderFrndlyTV"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ponyboycurtis1268/cherryvalance&quot;,
-    &quot;accountId&quot;: &quot;b7cb3d39-b445-4983-95a7-53ec43976960&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ponyboycurtis1268/cherryvalance.git",
+    "accountId": "b7cb3d39-b445-4983-95a7-53ec43976960"
   }
-}</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="31VV1d9TmqfsBN1DvHzKb5y6DOs" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="31maOUrI5jMmWAqczc0mRFG6LJY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;publish-site&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Alexander Deitrick\source\repos\cherryvalance\build" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="cherryvalance" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="cherryvalance" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c226c0a3-18e2-4a36-a2d2-f36d20e92b09" name="Changes" comment="" />
-      <created>1755609013370</created>
+      <changelist id="d6a47323-f51e-49f9-b237-d8f5e0732490" name="Changes" comment="" />
+      <created>1756131670389</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1755609013370</updated>
+      <updated>1756131670389</updated>
     </task>
-    <task id="LOCAL-00001" summary="&quot;initial commit&quot;">
-      <option name="closed" value="true" />
-      <created>1755609073595</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1755609073595</updated>
-    </task>
-    <task id="LOCAL-00002" summary="&quot;initial commit&quot;">
-      <option name="closed" value="true" />
-      <created>1755609692204</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1755609692204</updated>
-    </task>
-    <task id="LOCAL-00003" summary="&quot;page push&quot;">
-      <option name="closed" value="true" />
-      <created>1755619963309</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1755619963309</updated>
-    </task>
-    <task id="LOCAL-00004" summary="&quot;page publish test&quot;">
-      <option name="closed" value="true" />
-      <created>1755701073901</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1755701073901</updated>
-    </task>
-    <task id="LOCAL-00005" summary="&quot;page publish test&quot;">
-      <option name="closed" value="true" />
-      <created>1755702022988</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1755702022988</updated>
-    </task>
-    <task id="LOCAL-00006" summary="&quot;page publish test&quot;">
-      <option name="closed" value="true" />
-      <created>1755702116679</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1755702116679</updated>
-    </task>
-    <task id="LOCAL-00007" summary="&quot;page publish test&quot;">
-      <option name="closed" value="true" />
-      <created>1755704317860</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1755704317860</updated>
-    </task>
-    <task id="LOCAL-00008" summary="&quot;page publish test&quot;">
-      <option name="closed" value="true" />
-      <created>1755705816798</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1755705816798</updated>
-    </task>
-    <task id="LOCAL-00009" summary="&quot;page publish test&quot;">
-      <option name="closed" value="true" />
-      <created>1755707293530</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1755707293530</updated>
-    </task>
-    <task id="LOCAL-00010" summary="&quot;page publish test&quot;">
-      <option name="closed" value="true" />
-      <created>1755709006437</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1755709006437</updated>
-    </task>
-    <task id="LOCAL-00011" summary="&quot;page publish test&quot;">
-      <option name="closed" value="true" />
-      <created>1755709201749</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1755709201749</updated>
-    </task>
-    <task id="LOCAL-00012" summary="&quot;page publish test&quot;">
-      <option name="closed" value="true" />
-      <created>1755718246262</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1755718246262</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;initial commit&quot;" />
-    <MESSAGE value="&quot;page push&quot;" />
-    <MESSAGE value="&quot;page publish test&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;page publish test&quot;" />
   </component>
 </project>
